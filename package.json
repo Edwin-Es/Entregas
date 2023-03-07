@@ -1,0 +1,23 @@
+{
+  "name": "entrega1",
+  "version": "1.0.0",
+  "description": "Entrega bootcamp 1",
+  "main": "index.js",
+  "scripts": {
+    "start":"echo \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edwin-Es/Entregas.git"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "EdwinE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edwin-Es/Entregas/issues"
+  },
+  "homepage": "https://github.com/Edwin-Es/Entregas#readme"
+}
